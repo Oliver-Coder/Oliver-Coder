@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Grant;I+love+building+things+for+the+web.)](https://git.io/typing-svg)
 
-# Hey, I'm Grant
-
-I love building things for the web. What started as an interest in clean design and simple interfaces turned into a deeper passion for understanding how digital products work and how to make them work better.
+What started as an interest in clean design and simple interfaces turned into a deeper passion for understanding how digital products work and how to make them work better.
 
 ##  What I Do
 - Design clean, intuitive user interfaces  
