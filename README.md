@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=F7F7F7&width=800&height=60&lines=Hey%2C+I'm+Grant+Diener;I+love+building+things+for+the+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=F7F7F7&width=800&height=60&lines=Hey%2C+I'm+Grant+Diener;Want+to+be+Dev)](https://git.io/typing-svg)
 
 What started as an interest in clean design and simple interfaces turned into a deeper passion for understanding how digital products work and how to make them work better.
 
